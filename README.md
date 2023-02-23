@@ -12,3 +12,7 @@ This Superstore has operations all across the globe from North America to Asia P
 
 ## Functionalities used:
 Charts, Slicers, Power Query for data transformation, Power Pivot for DAX 
+
+## Dashboard
+
+![Screenshot (50)](https://user-images.githubusercontent.com/99702912/220826684-1d2f3570-45d0-4b43-b914-342b98a1bcd0.png)
